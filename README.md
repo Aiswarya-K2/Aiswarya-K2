@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+I am an engineering student from Kerala
+
+I am currently learning cloud computing
+
+Pronouns: She/Her
+
+To reach me: aiswaryaak22@gmail.com
+```
