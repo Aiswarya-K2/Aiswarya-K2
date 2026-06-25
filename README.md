@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ```
-I am an engineering student from Kerala
-
-I am currently learning cloud computing
+I am an engineering student currently learning cloud computing
 
 Pronouns: She/Her
 
